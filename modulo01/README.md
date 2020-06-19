@@ -10,7 +10,7 @@
 
 <p align="center">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://abnerlago.com">
     <img alt="Made by Abner Lago" src="https://img.shields.io/badge/made%20by-Abner Lago-%23F7DF1E">
   </a>
 
